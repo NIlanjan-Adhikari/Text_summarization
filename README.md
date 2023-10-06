@@ -7,7 +7,7 @@
 5. https://towardsdatascience.com/setting-up-a-text-summarisation-project-daae41a1aaa3
 6. https://huggingface.co/docs/transformers/tasks/summarization
 
-# Papers with code4
+# Papers with code
 1. BART-LS --> https://paperswithcode.com/paper/adapting-pretrained-text-to-text-models-for
 2. Pegasus-X --> https://paperswithcode.com/paper/investigating-efficiently-extending
 3. BRIO -> https://paperswithcode.com/paper/brio-bringing-order-to-abstractive
