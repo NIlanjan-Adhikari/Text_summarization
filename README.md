@@ -6,6 +6,7 @@
 4. https://huggingface.co/human-centered-summarization/financial-summarization-pegasus
 5. https://towardsdatascience.com/setting-up-a-text-summarisation-project-daae41a1aaa3
 6. https://huggingface.co/docs/transformers/tasks/summarization
+7. 
 
 # Papers with code
 1. BART-LS --> https://paperswithcode.com/paper/adapting-pretrained-text-to-text-models-for
@@ -19,7 +20,7 @@
 # Notable githubs for summarization
 1. https://github.com/theamrzaki/text_summurization_abstractive_methods
 2. https://github.com/HHousen/TransformerSum
-3. 
+3. https://github.com/rojagtap/abstractive_summarizer
 4. https://github.com/huffon/factsumm
 5. https://github.com/mim-solutions/bert_for_longer_texts
 
@@ -28,3 +29,8 @@
 2. https://github.com/microsoft/unilm
 3. https://github.com/facebookresearch/fairseq
 4. https://github.com/thudm/swissarmytransformer
+5. https://github.com/labmlai/annotated_deep_learning_paper_implementations
+6. https://github.com/graykode/nlp-tutorial
+
+# Summarization benchmark datasets
+1. ClidSum: A Benchmark Dataset for Cross-Lingual Dialogue Summarization ( https://arxiv.org/abs/2202.05599 )
